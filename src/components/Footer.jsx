@@ -9,7 +9,14 @@ export default function Footer() {
           Currently open to part-time or internship opportunities as a full-stack developer. Let's build something weightless together.
         </p>
         <div className="flex justify-center gap-6 mb-8">
-          <a href="mailto:linuka@example.com" className="hover:text-purple-400 transition-colors">Email</a>
+          <a
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=linukaja2004@gmail.com"
+            target="_blank"
+            rel="noreferrer"
+            className="hover:text-purple-400 transition-colors"
+          >
+            Email
+          </a>
           <a href="https://github.com/linuka2004" target="_blank" rel="noreferrer" className="hover:text-purple-400 transition-colors">GitHub</a>
           <a href="https://www.linkedin.com/in/linuka-jayasinghe-45688a2b8" target="_blank" rel="noreferrer" className="hover:text-purple-400 transition-colors">LinkedIn</a>
         </div>
