@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 const skills = [
   "React.js", "Node.js", "Express", "MongoDB", "MySQL", "Java", "Spring Boot", 
-  "Tailwind CSS", "Framer Motion", "C++", "Arduino IoT"
+  "Tailwind CSS", "Framer Motion", "C++", "Arduino IoT", "Git", "GitHub", "VS Code", "Postman", "Figma"
 ];
 
 export default function TechStack() {

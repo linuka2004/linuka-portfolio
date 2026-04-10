@@ -34,7 +34,7 @@ description: "A real client portfolio website built for a company.",
   {
     title: "HR Payroll System",
     description: "A specialized portal for HR professionals for payroll management.",
-    tech: ["React", "Node.js"],
+    tech: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "MySQL"],
     github: "https://github.com/linuka2004/HR-Payroll-Frontend.git",
     live: "#"
   },
@@ -44,6 +44,13 @@ description: "A real client portfolio website built for a company.",
     tech: ["C"],
     github: "https://github.com/linuka2004/Yahtzee--C.git",
     live: "#"
+  },
+  {
+    title: "Barcode Generator",
+    description: "A console-based barcode generator built using JS and React, featuring barcode creation and display functionality.",
+    tech: ["JS", "React", "Tailwind CSS", "Node.js", "Express"],
+    github: "https://github.com/linuka2004/Barcode-Generator-Front.git",
+    live: "https://barcode-generator-front.vercel.app/"
   }
 ];
 
