@@ -4,6 +4,20 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
+    title: "Analog Signal Conditioning Circuit",
+    description: "A multi-stage hardware circuit featuring a BJT common-emitter amplifier and RC band-pass filters, designed to process and amplify AM radio signals.",
+    tech: ["Analog Electronics", "Proteus", "BJT Amplifiers", "Hardware Prototyping", "Oscilloscopes"],
+    github: "https://drive.google.com/file/d/11Ugw0j1yOJ_LK6ToOAs7QfbkuzrhWPNQ/view?usp=drive_link", 
+    live: "#"
+  },
+  {
+    title: "Parallel Computing Demonstration App",
+    description: "A Python-based GUI application designed to simulate and evaluate the performance of parallel processing techniques, CPU scheduling, bus contention, and MESI cache coherence.",
+    tech: ["Python", "Tkinter", "Multiprocessing", "NumPy", "Matplotlib", "psutil"],
+    github: "https://github.com/linuka2004/IE2064_Group02_Code.git",
+    live: "#"
+  },
+  {
         title: "Company Portfolio Website",
 description: "A real client portfolio website built for a company.",
     tech: ["MongoDB", "Express", "React", "Node.js", "Tailwind CSS"],
