@@ -29,7 +29,7 @@ export default function Hero() {
             transition={{ delay: 0.3 }}
             className="inline-block px-4 py-1.5 rounded-full border border-purple-500/30 bg-purple-500/10 text-purple-300 text-sm font-semibold mb-6 tracking-wide"
           >
-            MERN Stack & Java Spring Boot Developer
+            Full-Stack Web & Embedded Systems Developer
           </motion.div>
           <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-6 leading-tight">
             Building <br />
@@ -38,8 +38,8 @@ export default function Hero() {
             </span>
           </h1>
           <p className="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto md:mx-0 mb-8 leading-relaxed">
-            I'm Linuka Jayasinghe, a Computer Systems Engineering undergraduate at SLIIT and full-stack developer. I'm passionate about bridging the gap between dynamic web systems and interactive hardware. Welcome to my portfolio—where scalable architecture meets effortless, seamless integration.
-          </p>
+            I'm Linuka Jayasinghe, a Computer Systems Engineering undergraduate at SLIIT. I specialize in designing solutions across the entire engineering spectrum—from enterprise full-stack development to custom PCB layouts and ESP32 control systems. Welcome to my portfolio, where scalable software architecture meets precision hardware integration.
+            </p>
           <div className="flex flex-col sm:flex-row items-center gap-4 justify-center md:justify-start">
             <a href="#projects" className="px-8 py-3 rounded-full bg-white text-dark font-semibold hover:bg-gray-200 transition-colors">
               Explore Projects
