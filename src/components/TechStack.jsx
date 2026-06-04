@@ -2,9 +2,20 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const skills = [
+  // Software & Web
   "React.js", "Node.js", "Express", "MongoDB", "MySQL", "Java", "Spring Boot", 
-  "Tailwind CSS", "Framer Motion", "C++", "Arduino IoT", "Git", "GitHub", "VS Code", "Postman", "Figma",
-  "Python", "NumPy", "Matplotlib", "Tkinter", "Analog Electronics", "Proteus", "BJT Amplifiers", "Hardware Prototyping", "Oscilloscopes"
+  "Tailwind CSS", "Framer Motion", "C++", "Python", 
+  
+  // Tools & Version Control
+  "Git", "GitHub", "VS Code", "Postman", "Figma",
+  
+  // Data & UI Libraries
+  "NumPy", "Matplotlib", "Tkinter", 
+  
+  // Hardware, Electronics & Systems (Updated)
+  "Arduino IoT", "ESP32", "Analog Electronics", "Proteus", "KiCad", "EasyEDA", 
+  "PCB Design", "SMD Assembly", "BJT Amplifiers", "PID Control", "Hardware Prototyping", 
+  "Oscilloscopes", "TCP/IP Sockets"
 ];
 
 export default function TechStack() {
